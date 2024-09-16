@@ -60,3 +60,17 @@ button{
     margin: 10px auto;
     place-content: center;
 }
+.copyright{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 10px;
+    text-align: center;
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 25px;
+    a{
+        color: #fff;
+        text-decoration: none;
+    }
+}
